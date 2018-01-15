@@ -1,0 +1,157 @@
+The threat of Y2K - 14 August 1998
+
+One day this spring, a supervisor in the warehouse of a manufacturer of frozen
+food noticed something he'd never seen before on the expiration date of a
+shipment that was just going out. It said that the food was 40 years old.
+
+Now here was a manufactured product that ante-dated the founding of the firm.
+Ridiculous. Still, to be on the safe side, the whole shipment was tossed out.
+I'm told that the same thing happened quite recently to a London department
+store. It destroyed tons of food while it was doing a long-term forecast.
+
+These destroyed food episodes were due to the company computers providing the
+wrong date when the food was frozen and manufactured. I hope it's plain by now
+– I'd better say at once that this is going to be a talk about Y2K. Not to
+scare you off, but to scare you on. Y2K, the year 2000.
+
+Y2K, probably the most ominous logo, the most threatening symbol to human life
+since E=mc², the formula for the first atomic bomb. I ought to have talked
+about this two years ago, when most people who'd heard of Y2K thought of it as
+a puzzle, something like an acrostic for computer buffs, a simple, almost a
+comical glitch that could be fixed right away.
+
+We all knew then how simple the problem was. Mainframe computers, more than 10
+years old, which surely most around the world are, were not programmed to
+handle a four-digit year. As in two zero zero zero. 2,000 AD "Well", snapped
+Bertie Wooster, a friend of mine, "just add two digits, I'd say!"
+
+How did it come about? To save storage space, most programmers allocated two
+digits only to a year. In data files, 1993 is 93. 1917 is 17. Same thing
+happened by the way in producing microchips, and as recently as only three
+years ago. Now they're really sophisticated calculators of measurement of all
+kinds but, like the computers, chips that counted time were only designed,
+structured, in the jargon for this century.
+
+So when 1999 turns over to 2000, the 21st Century, the chips and the software
+as they exist today will register not 2000 but 1900AD. And around the world,
+all the civilised institutions we take for granted could stop working. The
+power grid of your city or county, which takes in too your water supply. No
+telephones. Transportation? All railroad traffic is computed and so is the coal
+that fires the power plants. The supertankers that ship in oil from the Middle
+or the Far East, the banking systems everywhere. All government services,
+health services, hospitals paralysed. Police and fire services, and all general
+business activity.
+
+I know this is a drastic and melodramatic list. It does not, however, come from
+some supermarket scaremonger tabloid. I have quoted directly from a speech
+given by Senator Robert Bennett of Utah. Delivered on 2 June to the Center for
+Strategic and International Studies in Washington DC.
+
+Senator Bennett, who we may, if we are lucky, come to remember as a benefactor
+of the human race, is the chairman of a Senate sub-committee, the banking
+sub-committee on technology and financial services. And he's the first notable
+politician in this country to sound the fire bell, a year ago, by holding the
+first hearings on Y2K.
+
+So what's the reply to my friend Bertie Wooster? And to others, even brighter.
+To anyone who thinks, or thought, way back in 1991 say, that codes could be
+changed by any halfway decent a mathematician or newly-trained programmer.
+
+Well, the United States social security system began working seven years ago on
+its 30 million lines of code and by 1996, 400 programmers had fixed only six
+million lines. The tax people, the internal revenue service, began cleaning up,
+debugging its 88,000 programmes on its mainframe computers. By the end of last
+year, it had debugged 2,000 only.
+
+There's a software research firm that studies the productivity record of
+programmers. And it's put out an estimate of the time it would take to fix, and
+then to test, all software that will currently be affected by Y2K – 700,000
+person years! So unless somebody comes up with a miraculous, new, simple model
+for everybody, there aren't enough programmers in the world and there isn't
+enough time before New Year's Day 2000.
+
+Senator Bennett confessed in that historic speech to the strategic big shots
+that his first exposure to the challenge of Y2K came when he decided to hold a
+hearing of his sub-committee to learn what effect Y2K might have on the banking
+system. It had crossed his mind that suddenly nobody might have verifiable
+assets or could get at them.
+
+When that first hearing was over, a well-known senator, Christopher Dodd of
+Connecticut, said, "Mr Chairman, this is scary stuff! We've got to have another
+meeting". They had six more, which mainly managed to scare them more by
+revealing the scope of the task ahead. The billions of useless chips, in many
+countries, the global urgency of the problem.
+
+Senator Bennett stressed that so far, the people who are most aware of the
+problem are big industries, a giant motor car company, for instance. He says if
+Y2K were to hit this coming weekend, the company could not produce a single car
+in any one of its 157 manufacturing plants.
+
+And then the senator made the sharp point that this is a management problem,
+every bit as much as it's a technology problem. And the biggest mistake you can
+make, if you're a chief executive officer or even a manager, is to say "the
+utilities people will fix it". For your company, in your country.
+
+That had happened when he got a call from the head of a famous company who
+said, "We've taken care of everything. We started in 1996". Senator Bennett put
+to the man questions such as, "What happens when you get no dial tone on calls
+to any of your offices in Eastern Europe, Asia, South America?" "What happens
+when you can't transfer money into a branch office or do any banking overseas
+because their systems have broken down?"
+
+The man was embarrassed to say the least. "You'll have to talk to our top
+management", he said, "My responsibility was only to fix our computers". Well,
+of course, the computer problem in all countries has to be solved first.
+
+Senator Bennett ended by repeating the seven areas of concern that I've
+mentioned and said the first that must be maintained is the power grid. Power
+must be available even if every one of your computers has been repaired to
+comply with the turnover to 2000AD. And after power, water. Every water
+purification plant in this country is run by a computed system.
+
+Relaxing before, by now, as you might guess, a thoroughly alert audience,
+Senator Bennett warned, "If you can't fix it in the year and a half that's
+left, develop now a contingency plan that'll see to it that at least you won't
+have to shut down".
+
+Well, I don't know how it is in your country, but some governments have only
+just wakened up to the apocalypse that faces them 17 months from now. The
+American government waited far too long to appoint a man called, need I say
+here, a tsar, to concern himself exclusively on behalf of the whole
+presidential, the executive branch of government with Y2K.
+
+He began wisely by not dictating or organising action from the top. He went
+round to each Cabinet officer – treasury, agriculture, state department,
+health, education and welfare, and so on – and said, "You are wholly
+responsible for solving this thing in your own department".
+
+The senator never tires of stressing the management responsibility when he
+talks to businessmen, big or small, who think of it as a computer problem
+simply and believe that rushing a lot of student programmers through their
+paces will turn up some Einstein or Newton who'll fix us all up by next summer.
+The awful statistics I quoted about the turtle pace of the expert programmers
+employed by the social security system and the internal revenue department
+should dispose of that illusion.
+
+Mr Bennett ended by saying there's no possible doubt about it, Y2K is coming.
+But don't, like Chicken Little, think the sky is falling in and all you can do
+is to plough up the backyard, put in the propane tank, a bomb shelter, and a
+large supply of dried food, that you can live on till the world finally comes
+back in three or four years. That kind of attitude, he said, will turn into a
+self-fulfilling prophesy.
+
+When people say to me, "Is the world coming to an end?" I say "I don't know". I
+don't know whether this will be a very bad bump in the road – that's the most
+optimistic assessment – or whether this will trigger a major worldwide
+recession with absolutely devastating economic and social consequences. We must
+recognise that the problem is coming and deal with it coldly, intelligently,
+efficiently.
+
+Don't panic. But don't spend a lot of time asleep, either.
+
+THIS TRANSCRIPT WAS TYPED FROM A RECORDING OF THE ORIGINAL BBC BROADCAST (©
+BBC) AND NOT COPIED FROM AN ORIGINAL SCRIPT. BECAUSE OF THE RISK OF MISHEARING,
+THE BBC CANNOT VOUCH FOR ITS COMPLETE ACCURACY.
+
+Letter from America audio recordings of broadcasts ©BBC. Letter from America
+scripts © Cooke Americas, RLLP

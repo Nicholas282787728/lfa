@@ -1,0 +1,210 @@
+On Y2K Alert - 31 December 1999
+
+Notice from the landlord to all tenants: "In anticipation of any potential Y2K
+problems the four elevators in your building will be brought down to the lobby
+and kept out of service for 30 minutes beginning at 11.45pm on December 31st,
+1999."
+
+If ever there was a talk that ought to be heard the moment it's being spoken
+this is the one.
+
+I have a problem which has never come up in 53 years and plainly will never
+come up again.
+
+I'd better begin explaining it by saying that I'm recording these words on
+Wednesday December 29 in deference to - how shall I put this delicately? - in
+deference to the fairly recent European custom of stretching what used to be a
+two-day holiday into something more like a two-week break.
+
+As I understand it many millions of people in Europe, including Britain, will
+be taking, or have taken things a little easier than usual on Friday - New
+Year's Eve - perhaps even leaving work early.
+
+When I mentioned this to an American friend who happens to be, as we say, in
+broadcasting, he reeled visibly in disbelief: "You've got to be kidding."
+
+I think that would have been the reaction of most other Americans simply
+because on Friday millions of Americans stayed at work or came on to an
+all-night shift, from the whole federal government down to every kind of office
+worker - people who work in hospitals, airports, banks, factories and companies
+that have never before been open through New Year's Eve into the dawn of New
+Year's Day - all of them on, of course, a Y2K alert.
+
+The suspense that built up in the weeks before New Year's Eve was nerve
+shattering, scary, also often funny, and I had meant to recite the drama of it
+- not to mention the nationwide fear of terrorism - until I realised that it
+would be like retelling a gripping whodunnit when you already knew who dunnit -
+you being the majority everywhere that hears this talk on Sunday or Monday.
+
+By now you'll know the worst and the best. Either chaos has come to Russia and
+millions of small businesses in Latin America and the Third World - possibly
+even to little Piddletrenthide and Tombstone, Arizona - or nothing at all
+happened and the wise guys - that's to say the knowalls who know absolutely
+nothing about the history of the computer - are going to be able to chant: "I
+told you so. Tremendous fuss about nothing."
+
+Well as I must remind you I'm talking more than 48 hours before the great
+revelation.
+
+If all is well and a whirlwind sigh of relief passes throughout our world there
+is one human being more than another to whom we should give the credit. He will
+deserve the Nobel Prize for Peace, for Physics and perhaps a newly created one
+- the Nobel Prize for Survival.
+
+It was a United States senator, one Robert Bennett, from whom we first learned
+of a technical glitch that any computer mechanic could fix but which, after
+deeper thought, turned into what one expert called "the most ominous threat to
+human life since the discovery that e=mc²."
+
+Before we come to our blessed watchdog I'd like to go back to the experts'
+first awareness of the problem and the recollections which have only now been
+told.
+
+The problem first occurred to a young expert on systems development about, he
+recalls, 1978. In a jokey moment with some colleagues at a time when there was
+a subdued but general fear about the possibility of a nuclear war one man said:
+"Just imagine: the world is going to end when somebody presses a button."
+
+The systems development man, one Richard Reagan, said in response: "No, the
+world's going to end when the clock ticks over to 2000 and all the computers
+will erase all the data."
+
+Now this was not shouted aloud to the multitude as a threat to anybody it was
+more or less of an in joke - shop talk.
+
+Mr Reagan says: "We could have fixed it then but it would have meant
+re-creating all our customers' existing programs. And at that time no
+responsible programmer would have been anticipating a problem 22 years away.
+"Also at that time there were not too many computers and they had a large
+number of uses."
+
+Another systems developer touched the crux of the matter: "The problem of Y2K
+isn't an internal computer problem, it's in the connection between business
+computers and the reliance on data transfers."
+
+That's about as simply as it can be put.
+
+I think the point for lay persons to appreciate is that even way back in the
+70s to fix Y2K would have meant recalling all the private computers or junking
+them and creating new ones.
+
+"The main point," says another expert, "is none of us was so arrogant as to
+think any of the code we were writing then was going to be around in 20, 30
+years."
+
+That prospect of making all the private computers obsolete at a stroke reminds
+me of a trip I took about 50 years ago into the Adirondack mountains in upstate
+New York.
+
+In an old phonograph store - in England, a gramophone shop - the owner - an old
+man - beckoned me to a phonograph and played me a record. It was a Beethoven
+symphony.
+
+The recording was tinny but the orchestra was on pitch but the record instead
+of spinning around at the usual 78 revolutions a minute was crawling.
+
+"We thought," said the old man, "everybody would soon have one of these at the
+time."
+
+It was what would come to be called 'a long playing record'.
+
+Now the point of this harmless story is the machine the old man played to me
+had two switches and a fine grooved record. They had been manufactured in 1906
+but because everybody would have to buy a new player - the idea of a cheap
+attachment didn't occur - and somehow come by these fine grooved records, the
+manufacture of two switch machines was abandoned and the patents or patents on
+long playing records were frozen for 40 years.
+
+The old man was right. By the early 1950s only the standard universal record
+playing 78 rpms was dead.
+
+It is a crude analogy but I hope it's a useful one and stresses the extreme
+unlikelihood of any computer expert in 1978 guessing that the code of 1999
+computers would not be able to cope with that almost comical hypothesis of the
+clock rollover problem of 2000AD.
+
+All this about the first gleanings of the problem has come out only in the past
+few weeks.
+
+But when did we wake up to the imminence of the rollover as a menace to the
+whole world?
+
+That takes us to the summer of 1997 when Senator Robert Bennett of the State of
+Utah called into session a senate sub-committee of which he was the chairman:
+the senate banking sub-committee on technology and financial services. Senator
+Bennett brought up, for the first time in public, the strange puzzle of the
+year 2000.
+
+I don't believe any of us had heard of a disturbing episode that happened that
+spring in the warehouse of a frozen food factory.
+
+A supervisor going his rounds happened to notice something he'd never seen
+before: the expiration date of a shipment of food that was just going out said
+that the food was already 40 years old - an absurdity since 40 years ago the
+firm didn't exist.
+
+The supervisor consulted his boss and it was decided, considering the one
+chance in a hundred, say, that the printed note might be right, they dumped the
+whole shipment.
+
+Senator Bennett had heard about this and other freaks and he knew then why this
+had happened. Mainframe computers more than 10 years old, which most around the
+world were, had not been programmed to handle a four-digit year - as in 2000
+AD.
+
+To make an immense saving in storage space in all the memory banks, two digits
+only had been allocated to any given year, so 1978 was 78, 1993, 93, so on.
+Same with chips and software.
+
+So when 1999 was to turn over to 2000 the chips and the software would go back
+to 1900.
+
+Senator Bennett presented to his sub-committee a necessarily blunt and graphic
+picture of what this could mean.
+
+Government services everywhere could be partially paralysed, the electric grid
+of towns and cities out, no light, no power, no water supply, telephones,
+railroad traffic is computerised, food transport stopped, hospitals back to the
+most primitive care.
+
+And - especially troublesome to this banking committee - the international
+banking system crippled. Maybe you'd wake up, in the dark, to find among other
+annoyances that your bank deposits registered zero.
+
+Senator Bennett went on holding hearings and he woke up the world in June of
+last year.
+
+"It is not a computer problem simply," he said, "it is the responsibility of
+management of businesses big and small around the world to reprogram their
+product to fix things now.
+
+"When people say to me is the world coming to an end I say I don't know whether
+this will be a bad bump in the road - the most optimistic assessment - or
+whether it will trigger a worldwide recession with absolutely devastating
+economic and social consequences."
+
+After that committee rose the government of the United States, beginning with
+the White House and then on to both houses of Congress, redoubled their work on
+fixing, as we put it, the Y2K bug.
+
+All the allies were consulted to see how far along they were with the necessary
+work. Some weren't along at all.
+
+Russia was the most notable laggard. And in no time the United States lent a
+couple of billion dollars to Mr Yeltsin to get busy killing the bug.
+
+As of New Year's Eve the president assured us that as for the federal
+government anyway everything was A-OK. The work that had to be done in every
+country around the world was prodigious if January 1st 2000 was to be only a
+bump in the road.
+
+If you are listening to me anywhere in comfort I can only say God bless your
+government, your businessmen and computer doctors, most of all Senator Bennett
+- and happy, happy New Year.
+
+THIS TRANSCRIPT WAS TYPED FROM A RECORDING OF THE ORIGINAL BBC BROADCAST (©
+BBC) AND NOT COPIED FROM AN ORIGINAL SCRIPT. BECAUSE OF THE RISK OF MISHEARING,
+THE BBC CANNOT VOUCH FOR ITS COMPLETE ACCURACY.
+
+Letter from America audio recordings of broadcasts ©BBC. Letter from America
+scripts © Cooke Americas, RLLP

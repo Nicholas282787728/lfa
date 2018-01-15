@@ -1,0 +1,174 @@
+California public health laws - 18 March 1988
+
+It’s odd to sit here when the sun goes down in a city that hasn’t seen a cloud
+in two weeks and hear the weathermen recite their nightly lament “Sorry people
+but the news is still bad – no rain in sight.”
+
+Most of California has been suffering from a winter drought and since January
+and February and early March are the times for the rains, the prospect for the
+summer is, from the natives’ point of view, bleak.
+
+This doesn’t mean that the high sierras are not piled with 20 feet of snow but
+in a state three times the size of England, a sizeable part of which is close
+to desert, the run-off from the mountains provides nothing like enough water to
+maintain the bulk of the population which lives along the 800-mile coast. The
+essential rain has to come in from the west, from the Pacific.
+
+The official definition of the present drought is "critical" and that means
+critical for the livestock and the prodigious variety and supply of fruits and
+vegetables and dairy products, everything from avocados to olives, from cotton
+to wine grapes. The Salinas valley alone, its lettuce rows reaching to the arc
+of the horizon, is known as the “salad bowl of the nation”.
+
+There was a ferocious drought in the middle '70s and the loss of revenue to the
+state took years to make up. Of course in a land this size every part has its
+own climate and its own hazards. The other night my stepson, who grows wine
+grapes about 80 miles north of San Francisco in the beautiful Alexander Valley,
+he went to bed early and put on a special alarm clock which goes off when the
+temperature starts to drop into the 30s.
+
+The two threats to his livelihood are always floods and frost and a sudden
+visitation of either can ruin his crop overnight. Well the other night the air
+was menacingly sharp and the thermometer was dropping down to 40 and the local
+radio and television warned the growers that there was a possibility of a
+frost.
+
+When the temperature hits about 34 the alarm goes off and he’s up in the night
+and turning on the wind machines or the water machines that prevent the
+freezing. Laymen always say surely there’s an alarm that would itself
+automatically turn on the machines, but my stepson presents you with a simple
+grim bit of arithmetic. You have, say, 50 acres in Chardonnay which will
+produce a crop worth a quarter of a million dollars. No computered automatic
+frost prevention system is yet perfect and computer error could leave the
+vintner fast asleep, 250,000 dollars in the red.
+
+Well, it didn’t happen last weekend and he had his sleep and he does not
+expect, as the spring comes along, to be haunted much longer by frost at least.
+There is, however, at the end of the summer a new spectre on the horizon.
+
+By federal law, by an amendment to the immigration laws beginning next November
+everyone, every cattle man, every farmer of every sort from the wine growers
+and vegetable producers down to the employers of what they call stoop labour on
+strawberries and escarole, every employer must be able to show documents for
+the hired hands attesting to their status as legal immigrants.
+
+When you consider that there are something like seven million illegal Mexicans
+in the country, more than half of them in California, you can guess at the
+series of headaches that’s about to inflict the employers of farm labour. For
+generations most of the stoop labour of California was done first by Japanese
+then, and now, by Mexicans whose right to be in the country was something the
+employer chose not to bring up.
+
+However in the matter of frost and flood there’s a bright light at the end of
+that tunnel into which all farmers peer almost every day of their lives. It’s
+the tunnel which hides still the secrets of dependable long and short-range
+weather forecasting.
+
+The night light bears the initials HMPS and I imagine that before long somebody
+will add a vowel or two and coin an acronym which will pass into the language
+before you can say cat scan. It stands for Hypercube Massively Parallel
+Supercomputer. Not another super computer – well yes, but up to now the word
+super has been used about computers in commercial ads or in the conversation of
+enthusiasts as in “a super girl”.
+
+This invention has just been announced by scientists at the Sandia National
+Laboratory in New Mexico. It’s not a promise; it’s already a fact. It consists
+of 1024 processors, each the microchip equivalent of a single ordinary computer
+which – the ordinary computer – has one processor, normally a single microchip
+that faces a complicated problem and goes to work on it stage by stage.
+
+Parallel computers begin by splitting the problem up into smaller separate
+parts and then assign each part to one of many processors which work – and
+here’s the key word – simultaneously. The usual example to show off the
+superiority of parallel computers is the building of a house where the single
+builder lays the bricks, does the plumbing, the roofing, the wiring, one thing
+at a time. The parallel computer sets many processors doing all the necessary
+jobs at once.
+
+Well the new HMPS – a useful memory aid might be on Her Majesty’s Parallel
+Service – the new super computer has, as I mentioned over a thousand
+processors. To give you an idea of its formidable talents let me say that the
+Sandia supercomputer was confronted with what is a standard problem – to
+calculate the detailed stresses and strains throughout a solid metal beam under
+a load.
+
+This may not seem much of a problem to you and me jumping up and down on a
+narrow bridge. Apparently it’s a problem of fiendish difficulty and would take
+an ordinary computer with a single microchip about 20 years. Now, of course,
+there are in existence experimental computers with well over 200 processors
+which have speeded things up by as many times as there are processors but
+nothing like the Sandia computer and its thousand-odd processors had been
+envisaged or at least developed.
+
+The stress test I mentioned just now, which the ordinary computer can solve in
+20 years, was finished by the Sandia in one week and several computer
+scientists around the country have commented that the Sandia machine disposes
+of their own established belief that there’s a limit to the speeding-up process
+possible with parallel computers.
+
+What they see ahead for the use of the Sandia is such a problem as the way
+pollutants are dispersed in the atmosphere and beyond the atmosphere, but the
+prospect that could mean a great deal to farmers, and the whole economy that’s
+nourished by them, is long-range weather forecasting.
+
+We’re always hearing that one way or another it’s been solved or it’s close to
+a solution but I think any honest top meteorologist will tell you that nothing
+could be more hideously complicated than the thousands of separate or linked
+continually-changing phenomena that go into long-range forecasting.
+
+For the time, I suppose we shall have to make do with the five-day forecast
+which is a regular feature of our nightly news and which has a remarkable
+record of accuracy but only about the sequence of moving systems, not the
+timing.
+
+If a flooding rain that’s expected on Friday night arrives on Wednesday night
+and you live in the Alexander Valley, bang goes your Chardonnay and a couple of
+hundred thousand dollars. I hope, so does my stepson, that the Sandia
+supercomputer will lay off calculating those stresses and strains through the
+solid metal beam – after all they’ve just done that in a week – and get down to
+helpful matters like when will a 100-mile-an-hour storm descend on Kew Gardens
+and what’s the prospect for next Tuesday night in the Napa, Sonoma and
+Alexander Valleys?
+
+In the meantime, California goes ahead like no other state, possibly like no
+other nation, putting into law and threatening to put into law more and more
+restrictions on industries, manufacturers, products that can be thought to
+imperil the public health.
+
+California has just started to enforce a law passed by referendum in last
+June’s election which requires all manufacturers and suppliers to report all
+substances used in their product which are on a lists of dangerous substances
+issued by the state. If their product contains any of them the names of the
+substances must be printed and posted on signs affixed to their factory or shop
+entrances.
+
+They have one year to reduce the toxic level of these substances or risk
+prosecution and a jail sentence, which does suggest the looming likelihood of
+thousands and thousands of law suits from anybody and everybody who works in a
+factory or a shop so endangered.
+
+And also, by this autumn, every wine and spirits dealer in California, every
+shop and pub, must post signs warning of the risk of birth defects in the
+children of mothers who drink liquor, wine or beer. The business world spent
+close to a hundred million dollars to forestall all this legislation but was
+beaten by the voters.
+
+For the time being the state proceeds city by city with the humbler business of
+passing laws requiring all restaurants to set aside smoking and non-smoking
+sections. San Francisco is, I believe, the first city to ban all smoking in
+public buildings, post offices, bus stops, so on, and in all offices. The
+restaurant rule is by now absolutely routine. You cannot call to book a table
+without the man at the other end of the phone asking “Smoking or non-smoking?”
+
+In fact the awareness of the link between cancer and smoking is in this state
+now so dinned into every diner out, every citizen who shops or works, that
+there’s a story going round about a man who walked into a drug store and
+shouted “Two packs of condoms – [then whispers] and a pack of cigarettes."
+
+THIS TRANSCRIPT WAS TYPED FROM A RECORDING OF THE ORIGINAL BBC BROADCAST (©
+BBC) AND NOT COPIED FROM AN ORIGINAL SCRIPT. BECAUSE OF THE RISK OF MISHEARING,
+THE BBC CANNOT VOUCH FOR ITS COMPLETE ACCURACY.
+
+Letter from America audio recordings of broadcasts ©BBC
+
+Letter from America scripts © Cooke Americas, RLLP

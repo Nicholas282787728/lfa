@@ -1,0 +1,147 @@
+The Microsoft monopoly actions - 22 May 1998
+
+It's not hard to imagine as the theme of a James Bond movie a man who acquired
+the power to control, worldwide, the internet. He could, before long, control
+the world's knowledge bank, economies, food, transport, all the services which,
+more and more, will be done over the internet. Well such a monster is
+inconceivable in life, but the United States government is acting as if the
+lives of nations, as well as you and me, would be disturbingly affected if one
+man controlled everybody's access to the internet.
+
+This week, the government, not the Clinton administration, but the cavalry
+division of the government, the Department of Justice, came down like a wolf on
+the fold of one famous young man, way off there in Seattle, on the Pacific
+Coast in the far West. The name of the case on the docket is USA versus
+Microsoft Corporation. And not only the federal government, but riding
+alongside, were the supporting troops of 29 states, commanded each by its own
+Attorney General, each bringing its own charge against Mr Gates's corporation
+of monopoly.
+
+Why should there be so many additional guns brought into action? Why isn't the
+federal suit enough? The answer is simple, though tedious and maddening, to a
+company, a corporation, that's being sued. In the United States, a business
+corporation is set up and licensed, not by the federal government, but by one
+particular state, that it means to do business in. It may go off and get
+licensed in another state and another, so on. The original idea was sound. It
+was to prevent any one company, let alone any one man, getting control of a
+single product or a national resource – coal, say, or oil or, heaven help us,
+as heaven did, the railway systems.
+
+Let's remind ourselves what these 21 legal assaults on Mr Gates are all about.
+I talked about him first when he appeared before a special Senate investigating
+committee, at the beginning of March. For newcomers or innocents, let it be
+said that Mr Bill Gates is 42 years old, has a baby face and large, wire-framed
+glasses. Don't let them fool you. It's generally admitted he is a genius of an
+innovator with computers, to whom millions owe their livelihood. He is the king
+of software manufacturers, some say the dictator. One of his struggling
+competitors said he is the most dangerous and powerful industrialist of our
+age. However, to cut out the fine writing, and stick with the facts, as I hope
+everybody knows by now, you navigate through the internet's worldwide web and
+choose your programme or fount of information on anything and everything, you
+do this with one essential software tool, a browser.
+
+Now Mr Gates's Microsoft company manufactures a browser known as the Explorer.
+In theory, the theory of free competitive trade, you should be able to buy one
+man's computer and somebody else's browser, the one you find most compatible.
+However the government charges, and so do those 20 state Attorneys General,
+that Mr Gates's Microsoft company forces makers of personal computers to load
+his Explorer for browsing, but since Mr Gates integrated Explorer with the
+Microsoft operating system, if you don't accept Explorer, then you can't use
+Microsoft's operating system. At Mr Gates's Senate hearing there were several
+heads of rival computer companies present, very angry men, I can tell you and
+when Mr Gates was disputing the use of the word "monopoly", one of them
+swivelled round and put to the astonished audience at the hearing, how many
+people here own personal computers? About three-quarters of those present. How
+many have a computer that's not fitted with Microsoft's Explorer? Not a hand
+raised. That, shouted the rival, is a monopoly.
+
+Well, the burden of the government's complaint is the bruising fact that by
+forcing rival systems to use his browser and his operating system, he controls
+about 90 to 95% of the whole personal computer business and exercises a
+stranglehold on his competitors, which amounts to a sin, precisely defined in
+the famous anti-trust law, the Sherman Act, which the government has
+resurrected from the grave: "Every contract, combination in the form of trust
+or otherwise or conspiracy in restraint of trade of commerce among the several
+states, is hereby declared to be illegal".
+
+The first big government campaign against monopoly, first and, incidentally,
+the last, was famously undertaken by President Theodore Roosevelt at the
+beginning of the century against the so-called robber barons, the handful of
+men who each collared some single material resource – coal, coke, steel, oil,
+the railroads – by crushing competition.
+
+A simple, dramatic example is that of one John D Rockefeller, a 22-year-old, a
+very humble, clerk in Cleveland, Ohio, sent by the produce company he worked
+for to Pennsylvania to see if there was anything to the rumour of a messy oil
+that somebody had made gush up from the farmland, land where the farmers for
+two centuries had complained about their streams being muddied with a kind of
+black glue. It was oil all right and young, neat Mr Rockefeller saw it might
+grow from being a smelly lamp oil into oil for heating, for steamships, for
+power, everywhere. But he went home to Cleveland, and with a straight face,
+told them there was no future in it. Pretty soon he pooled his small savings
+with another young man and invested them in a candlemaker who had refined lard
+oil and was moving on to petroleum.
+
+Well to end your suspense, let me say, within nine years, young Rockefeller
+owned 90% of all American refineries and all the main pipe lines and oil cars
+of the Pennsylvania railroads. Then he got secret, low rates from the railroads
+for the huge business he threw their way and he got a bonus for the regular
+rates that small oil producers had to pay. Need I say, within a year or two
+he'd either bought out the small rivals or killed them off. When he was only
+33, in one stretch of six weeks, he took over 22 of 26 competitors. One of
+these unfortunates said, if we didn't sell out, we'd be crushed out. They all
+belonged to Mr Rockefeller's supreme monopoly, the Standard Oil Company.
+
+When all this came out, there was popular outrage and the case was prosecuted
+under the Sherman Act. The Supreme Court, hearing the government's case against
+Standard Oil, broke the monopoly up in 1911. It looked like a whopping success
+for the Sherman Act, but wait. There's a short phrase in the Act which a
+non-American may be forgiven for paying little attention to. It's this: "In
+restraint of trade among the several states". Now three years before the
+Sherman Act was passed, Congress tried to regulate trade between the states by
+making price fixing, railroad rate fixing, pooling of companies, illegal. It
+was called the Inter-State Commerce Act and from then on these sharp practices
+were to be watched over by a permanent Inter-State Commerce Commission.
+However, very soon, the Sugar Trust, which controlled 98% of the sugar refining
+business in the country, appealed against its prosecution under the Sherman Act
+and the Supreme Court held that that 98% grip on sugar refining did not violate
+the law because the raw material came from Cuba, because this was not an act of
+inter-state commerce, it was a single corporation processing a foreign product.
+I imagine the main purpose of having 20 states bring separate charges against
+Mr Gate's Microsoft is to foil any attempt to say that the federal suit does
+not address a problem of inter-state commerce.
+
+Well the Supreme Court's upholding of the Sugar Trust dealt the death blow to
+the legality of the Sherman Act, but what truly killed it in practice, what
+soon arrested every attempt to use it, was the ingenious invention of a
+gentleman named Mr Dodds – I know no more about him – the invention of the
+holding company. A holding company was a pure financial company formed simply
+to hold the stock of operating companies. For example, American Electric Power
+owns or owned eight companies, but it itself did not generate any electricity
+or mine any coal, it just sat on one side and held the stock of the people who
+did. Maybe the old cowboy comedian, Will Rogers, had a pithier definition of a
+holding company: the people you give your money to while you're being searched.
+So, when Mr Rockefeller's infamous monopoly, the Standard Oil Company, was
+dissolved under the law, it was dissolved into several theoretically competing
+units in different states. However, they were still a consolidation of the old
+oil companies, under the control of a holding company and Mr Rockefeller got
+richer.
+
+Time alone will show whether the resurrected Sherman Act is more potent today
+than it was 90 years ago in controlling what Teddy Roosevelt called one of
+those mighty industrial overlords. In his time, there was popular outrage at
+the totalitarian control of oil, sugar, railroads, beef by the robber barons
+but even then, one of the most upright justices of the Supreme Court, and its
+most formidable intellect, called the Sherman Act an imbecile statute that aims
+at making everyone fight but forbids anyone to be victorious. The last
+big-business monopoly case that the government brought spent 17 years in the
+courts before an outside settlement was reached, so don't expect this mighty
+case to be done with tomorrow, next week, possibly by 2010. If you're around
+then, please tell me the result in an email to cooke.com, Valhalla.
+
+THIS TRANSCRIPT WAS TYPED FROM A RECORDING OF THE ORIGINAL BBC BROADCAST (©
+BBC) AND NOT COPIED FROM AN ORIGINAL SCRIPT. BECAUSE OF THE RISK OF MISHEARING,
+THE BBC CANNOT VOUCH FOR ITS COMPLETE ACCURACY.
+
+Letter from America audio recordings of broadcasts ©BBC. Letter from America
+scripts © Cooke Americas, RLLP
