@@ -19,7 +19,7 @@ func directoryFiles() {
 	for _, f := range files {
 
 		content, _ := ioutil.ReadFile(f.Name())
-		url := ExtractTranscriptUrl(string(content))
+		url := extractTranscriptURL(string(content))
 
 		if url != "" {
 			fmt.Printf("wget -O %s %s\n", f.Name(), url) // crufty but effective; a list of wget commands to get the page and save it as the PID
@@ -30,11 +30,11 @@ func directoryFiles() {
 	}
 }
 
-func AcceptPipedStrings() {
+func acceptPipedStrings() {
 	scanner := bufio.NewScanner(os.Stdin)
 
 	for scanner.Scan() {
-		url := ExtractTranscriptUrl(scanner.Text())
+		url := extractTranscriptURL(scanner.Text())
 		if url != "" {
 			fmt.Println(url)
 		}
@@ -42,7 +42,7 @@ func AcceptPipedStrings() {
 
 }
 
-func ExtractTranscriptUrl(input string) string {
+func extractTranscriptURL(input string) string {
 
 	start := `promotion__title"> <a href="`
 	end := `" class="br-blocklink__link promotion__link" data-linktrack="promo_title">`
